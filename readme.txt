@@ -1,0 +1,1 @@
+使用python3+pyQt5写的测试录屏工具，仅能运行在64位系统上，解压压缩包运行里面的screencap_qt.exe即可。
